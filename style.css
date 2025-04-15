@@ -1,0 +1,99 @@
+body {
+    width: 645px;
+
+}
+
+.main-table {
+    width: 100%;
+
+}
+
+.table1 tr td {
+    text-align: center;
+}
+
+.table1 tr .logocolor {
+    color: #FCB833;
+}
+
+.table1 {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.table1 {
+    width: 541px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.table1 tr td p {
+    text-align: center;
+}
+
+.table3 {
+    width: 540px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 46px;
+    margin-bottom: 30px;
+}
+
+.table3 tr td p {
+    margin: 30px;
+    font: size 12px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.table3 tr td h3 {
+    margin: 30px;
+
+}
+
+.table4 {
+    width: 542px;
+    margin-left: 51px;
+    margin-right: 51px;
+    margin-top: 62px;
+    margin-bottom: 71px;
+
+}
+
+
+
+/*.table5 {
+    width: 346px;
+    height: 213px;
+    margin-left: 160px;
+    margin-right:137px;
+    margin-top:  71px; 
+    margin-bottom: 53px;
+
+
+    
+}
+.table5 tr{
+    text-align: center;
+    
+}
+.logo-title p{
+    color: #FCB833;
+}
+.table5 tr td p{
+    text-align: center;
+    font-size: smaller;}*/
+
+.main-table .row3 {
+    background: #1D254B;
+}
+
+.main-table .row1 td .back {
+    background: #1D254B;
+    height: 350px;
+}
+
+.main-table .row2 td .table3 {
+    position: relative;
+    margin-top: 277px;
+}
